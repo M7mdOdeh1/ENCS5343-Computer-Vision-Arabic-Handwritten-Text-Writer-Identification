@@ -65,5 +65,10 @@ You will need to download this dataset and follow the instructions below to inte
 | ResNet-50 (Pretrained) + Aug (Task 4)| ~98.77%                 | ~2,292                  |
 
 
+## Contributors
+
+- [Mohammad Odeh](https://github.com/M7mdOdeh1/)
+- [Osaid Hamza](https://github.com/OsaidHamza7)
+
 ## License
 This project is provided under the MIT License. Feel free to use, modify, and distribute the code with appropriate attribution.
