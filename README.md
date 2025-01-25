@@ -1,5 +1,3 @@
-# ENCS5343-Computer-Vision-Arabic-Handwritten-Text-Writer-Identification
-
 # Arabic Handwritten Text Writer Identification (AHAWP) Project
 
 This repository contains the code and experiments conducted for the **Arabic Handwritten Automatic Word Processing (AHAWP)** project. The goal is to **classify handwritten Arabic words** by identifying the writer (82 classes). We explore several deep learning strategies ranging from **custom CNNs** to **pretrained ResNet architectures**, leveraging **data augmentation** and **transfer learning** to achieve high accuracy on the AHAWP dataset.
