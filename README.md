@@ -1,0 +1,1 @@
+# ENCS5343-Computer-Vision-Arabic-Handwritten-Text-Writer-Identification
