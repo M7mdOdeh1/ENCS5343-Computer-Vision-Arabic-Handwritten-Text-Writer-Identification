@@ -59,11 +59,12 @@ You will need to download this dataset and follow the instructions below to inte
 
 
 ## Results Summary
-Model / Task	Final Test Accuracy	Training Time (sec)
-Custom CNN (Task 1, No Aug)	~65.07%	~218
-Custom CNN + Aug (Task 2)	~76.55%	~611
-ResNet-18 + Aug (Task 3)	~90.12%	~1,208
-ResNet-50 (Pretrained) + Aug (Task 4)	~98.77%	~2,292
+| **Model / Task**                     | **Final Test Accuracy** | **Training Time (sec)** |
+|--------------------------------------|--------------------------|--------------------------|
+| Custom CNN (Task 1, No Aug)          | ~65.07%                 | ~218                    |
+| Custom CNN + Aug (Task 2)            | ~76.55%                 | ~611                    |
+| ResNet-18 + Aug (Task 3)             | ~90.12%                 | ~1,208                  |
+| ResNet-50 (Pretrained) + Aug (Task 4)| ~98.77%                 | ~2,292                  |
 
 
 ## License
